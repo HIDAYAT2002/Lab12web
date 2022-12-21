@@ -32,11 +32,11 @@ $sql = “SELECT * FROM data_barang WHERE nama LIKE ‘{$var_nama}%’”;
 <br>
 
 Langkah selanjutnya adalah membuat form pencarian.
-![gambar1](ss/1.png)
+![gambar1](SS/ss2.png)
 Sisipkan kode tersebut pada file index.php (daftar barang), sebelum table data dan sesudah tombol tambah data. <br>
 Lalu rubah querynya dan tambahkan filter pencarian pada query tersebut.
-![gambar2](ss/2.png)
+![gambar2](SS/ss1.png)
 Maka Hasilnya akan seperti ini
-![gambar2](ss/3.png)
+![gambar2](SS/ss3.png)
 Jika melakukan pencarian hasilnya seperti ini
-![gambar2](ss/4.png)
+![gambar2](SS/ss4.png)
